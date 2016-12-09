@@ -1,4 +1,4 @@
 # hello-world
-first repo
+ repo
 trying to learn git
 revising
